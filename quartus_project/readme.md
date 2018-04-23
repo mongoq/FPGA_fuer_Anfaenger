@@ -1,2 +1,2 @@
-# Intel Quartus Prime Project
-Lauflicht Beispiel
+# Intel Quartus Prime Projekt
+Lauflicht Beispiel - Komplettes Projekt
