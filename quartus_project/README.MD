@@ -1,5 +1,5 @@
 # Intel Quartus Prime Projekt
-Lauflicht Beispiel - komplettes Projekt 
+Lauflicht Beispiel (komplettes Projekt)
 
 Pinzuweisung hierbei für dieses Board (verfügbar bei Aliexpress): 
 
