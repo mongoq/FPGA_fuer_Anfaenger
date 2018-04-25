@@ -1,7 +1,8 @@
 # Intel Quartus Prime Projekt
 Lauflicht Beispiel - komplettes Projekt 
 
-Pinzuweisung hierbei für dieses Board (verfügbar bei Aliexpress): https://de.aliexpress.com/item/EP4CE6-FPGA-Board-USB-Blaster-Download-Cable-Programmer-ALTERA-EP4CE6E22C8N-Development-Nios-II-Core-Module-CPLD/32238770804.html
+Pinzuweisung hierbei für dieses Board (verfügbar bei Aliexpress): 
+https://de.aliexpress.com/item/EP4CE6-FPGA-Board-USB-Blaster-Download-Cable-Programmer-ALTERA-EP4CE6E22C8N-Development-Nios-II-Core-Module-CPLD/32238770804.html
 
 Bild:
 
